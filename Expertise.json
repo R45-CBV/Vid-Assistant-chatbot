@@ -1,0 +1,206 @@
+[
+    {
+      "question": "Hello",
+      "answer": "Hi there! How can I assist you today?"
+    },
+
+    {
+      "question": "What services do you offer?",
+      "answer": "We offer custom software development, product engineering, Chatbot development, web and mobile app development, cloud solutions, and Artificial Intelligence."
+    },
+
+    {
+      "question": "Do you build mobile apps?",
+      "answer": "Yes, we develop both Android and iOS mobile applications using Flutter, React Native, and native technologies."  
+    },
+
+    {
+      "question": "Which technologies do you use?",
+      "answer": "Our tech stack includes React, Angular, Node.js, Python, .NET, Java, AWS, Azure, and more."  
+    },
+
+    {
+      "question": "What is your pricing model?",
+      "answer": "We offer fixed-price, hourly, and monthly engagement models based on project requirements."
+    },
+
+    {
+      "question": "What technologies do you specialize in?",
+      "answer": "We specialize in JavaScript, Python, .NET, Java, React, Angular, Node.js, AWS, Azure, and more."
+    },
+
+    {
+      "question": "What industries do you serve?",
+      "answer": "We serve various industries including healthcare, finance, retail, education, and manufacturing."
+    },
+
+    {
+      "question": "Do you develop custom software?",
+      "answer": "Yes, we specialize in developing tailor-made software solutions to meet your business needs."
+    },
+
+    {
+      "question": "What's your working hours?",
+      "answer": "Mon to fri : 9:30AM to 7:00PM, Saturday and Sunday : off."
+    },
+
+    {
+      "question": "Where is your development team located?",
+      "answer": "Our development team is primarily located in India."
+    },
+
+    {
+      "question": "What platforms do you build web apps on?",
+      "answer": "We build web apps using platforms like wordpress, Shopify, Magento, and custom frameworks."
+    },
+
+    {
+      "question": "What’s your average project delivery time?",
+      "answer": "Most projects are delivered in 4–12 weeks depending on size and complexity."
+    },
+
+    {
+      "question": "Do you offer 24/7 support?",
+      "answer": "Yes, our support team is available round the clock."
+    },
+
+    {
+      "question": "Do you work with startups?",
+      "answer": "Absolutely! We love working with startups to bring their ideas to life."
+    },
+
+    {
+      "question": "How do you manage projects?",
+      "answer": "We use tools like Jira, Trello, and Asana to manage tasks and communicate progress."
+    },
+
+    {
+      "question": "What makes your company different?",
+      "answer": "Our blend of technical expertise, client-focused approach, and scalable solutions sets us apart."
+    },
+
+    {
+      "question": "Do you help with system integration?",
+      "answer": "Absolutely. We integrate systems to ensure seamless data and process flows."
+    },
+
+    {
+      "question": "Can you redesign our existing website?",
+      "answer": "Definitely. We offer website redesign services with improved UX/UI."
+    },
+
+    {
+      "question": "Do you provide SEO services?",
+      "answer": "Yes, we offer on-page and technical SEO as part of our web development services."
+    },
+
+    {
+      "question": "Are your services available globally?",
+      "answer": "yes, we serve clients worldwide through remote collaboration."
+    },
+
+    {
+      "question": "How do you ensure code quality?",
+      "answer": "We use code reviews, automated tests, and continuous integration tools."
+    },
+    
+    {
+      "question": "Can you help us build a custom CRM system?",
+      "answer": "Yes, we develop custom CRM platforms tailored to your business workflow and goals."
+    },
+
+    {
+      "question": "What type of cloud services do you provide?",
+      "answer": "We offer cloud hosting, migration, DevOps, and cloud-native development."
+    },
+
+    {
+      "question": "Can you assist with IT staff augmentation?",
+      "answer": " Yes, we provide experienced developers and engineers to extend your in-house team."
+    },
+
+    {
+      "question": "What is your mobile app development process?",
+      "answer": "We follow steps: ideation, wireframing, development, testing, and deployment."
+    },
+
+    {
+      "question": "Can you build solutions for e-commerce?",
+      "answer": "Yes, we build e-commerce platforms with payment integration, cart, and admin features."
+    },
+
+    {
+      "question": "What’s your experience with microservices?",
+      "answer": "We design and deploy scalable microservices using Docker, Kubernetes, and REST APIs."
+    },
+
+    {
+      "question": "Do you build Android and iOS apps together?",
+      "answer": "Yes, using Flutter or React Native, we build apps for both platforms from a single codebase."
+    },
+
+    {
+      "question": "Do you offer code refactoring services?",
+      "answer": "Yes, we refactor legacy code to improve readability, performance, and scalability."
+    },
+
+    {
+      "question": "Can you integrate third-party APIs into our system?",
+      "answer": "Yes, we specialize in integrating a wide range of third-party APIs into custom software."
+    },
+
+    {
+      "question": "What DevOps tools do you use?",
+      "answer": "Jenkins, Docker, Kubernetes, Terraform, and GitLab CI/CD are commonly used."
+    },
+
+    {
+      "question": "Do you provide chatbot development?",
+      "answer": "Yes, we build AI-powered and rule-based chatbots for web and mobile."
+    },
+
+    {
+      "question": "Do you help manage IT risk?",
+      "answer": "Yes, we assess, mitigate, and monitor IT-related risks."
+    },
+
+    {
+      "question": "What is your policy on data privacy?",
+      "answer": "We adhere to strict data protection standards and confidentiality agreements."
+    },
+    
+    {
+      "question": "Do you offer training for our IT staff?",
+      "answer": "No, we not provide any type of training for IT staffs."
+    },
+
+    {
+      "question": "Do you handle IT recruitment?",
+      "answer": "Yes, we offer technical recruitment support and developer sourcing."
+    },
+    
+    {
+      "question": "Can you build platforms for remote teams?",
+      "answer": "Yes, we create collaboration tools, file sharing, and chat systems."
+    },
+
+    {
+      "question": "Can you audit our cloud infrastructure?",
+      "answer": "Yes, we evaluate cloud setups for cost, security, and performance."
+    }, 
+
+    {
+      "question": "Do you work on open-source projects?",
+      "answer": "Yes, we contribute to and build open-source software as needed."
+    },
+
+    {
+      "question": "Can you help us implement ITIL practices?",
+      "answer": "Yes, we guide teams on adopting ITIL for service management."
+    },
+
+    {
+      "question": "Do you offer API development services?",
+      "answer": "Yes, we create RESTful and GraphQL APIs for web and mobile apps."
+    }
+  ]

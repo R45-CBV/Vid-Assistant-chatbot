@@ -1,0 +1,28 @@
+# Ignore Python virtual environment
+env/
+
+# Ignore machine learning model files and outputs
+models/
+*.h5
+*.pt
+*.pkl
+*.gguf
+
+# Ignore ChromaDB persistent storage
+chroma_db/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
