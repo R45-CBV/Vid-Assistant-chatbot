@@ -5,7 +5,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from llama_cpp import Llama
 
 # Load JSON dataset
-json_file_path = "own.json"
+json_file_path = "Expertise.json"
 with open(json_file_path, "r", encoding="utf-8") as f:
     dataset = json.load(f)
 
