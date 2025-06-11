@@ -61,4 +61,4 @@ if __name__ == "__main__":
         if user_input.lower() == {"exit", "quit"}:
             break
         bot_reply = rag_chatbot(user_input)
-        print(f"\n🤖 Bot: {bot_reply}\n")
+        print(f"\n🤖 Bot: {bot_reply}\n")       
