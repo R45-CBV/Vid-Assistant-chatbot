@@ -1,7 +1,7 @@
 [
     {
       "question": "Hello",
-      "answer": "Hi there! How can I assist you today?"
+      "answer": "Hi! How can I assist you today?"
     },
 
     {
@@ -41,7 +41,7 @@
 
     {
       "question": "What's your working hours?",
-      "answer": "Mon to fri : 9:30AM to 7:00PM, Saturday and Sunday : off."
+      "answer": "Mon to fri : 9:30AM to 7:00PM."
     },
 
     {
@@ -202,5 +202,15 @@
     {
       "question": "Do you offer API development services?",
       "answer": "Yes, we create RESTful and GraphQL APIs for web and mobile apps."
+    },
+
+    {
+      "question":"How can we contact with you?",
+      "answer":"You can email us at hello@edeltaes.com or call at +91 9316707100."
+    },
+
+    {
+      "question":"Where are you located?.",
+      "answer":"711, 712, Millennium Business Hub 1 (MBH-1), opposite Sarthana Nature Park, Sarthana Jakat Naka, Nana Varachha, Surat, Gujarat 395006."
     }
   ]
