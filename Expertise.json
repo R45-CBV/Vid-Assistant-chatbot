@@ -212,5 +212,987 @@
     {
       "question":"Where are you located?.",
       "answer":"711, 712, Millennium Business Hub 1 (MBH-1), opposite Sarthana Nature Park, Sarthana Jakat Naka, Nana Varachha, Surat, Gujarat 395006."
-    }
-  ]
+    },
+
+  {
+    "question": "What services does your IT company provide?",
+    "answer": "We offer web development, mobile app development, cloud computing, cybersecurity, and IT consulting services."
+  },
+  {
+    "question": "Do you develop mobile applications for both Android and iOS?",
+    "answer": "Yes, we build native and cross-platform mobile applications for both Android and iOS devices."
+  },
+  {
+    "question": "What technologies do you use for web development?",
+    "answer": "We use modern technologies like React, Angular, Vue.js, Node.js, Python (Django), and PHP (Laravel)."
+  },
+  {
+    "question": "Can you migrate our existing application to the cloud?",
+    "answer": "Yes, we provide cloud migration services to platforms like AWS, Azure, and Google Cloud."
+  },
+  {
+    "question": "What is your approach to cybersecurity?",
+    "answer": "We follow a multi-layered security approach including firewall setup, penetration testing, encryption, and secure coding practices."
+  },
+  {
+    "question": "Do you provide custom software solutions?",
+    "answer": "Yes, we specialize in custom software development tailored to your business needs."
+  },
+  {
+    "question": "What is DevOps and do you offer it?",
+    "answer": "DevOps is a set of practices that combine software development and IT operations. Yes, we offer DevOps services including CI/CD automation and infrastructure management."
+  },
+  {
+    "question": "What industries do you serve?",
+    "answer": "We serve industries like healthcare, finance, education, logistics, and e-commerce."
+  },
+  {
+    "question": "Can you help with digital transformation?",
+    "answer": "Absolutely, we help organizations modernize legacy systems and adopt modern technologies."
+  },
+  {
+    "question": "Do you provide ongoing maintenance after development?",
+    "answer": "Yes, we offer post-deployment support, updates, and maintenance services."
+  },
+  {
+    "question": "How secure are your IT solutions?",
+    "answer": "We implement best security practices and ensure compliance with industry standards like GDPR and HIPAA."
+  },
+  {
+    "question": "What is your experience with cloud platforms?",
+    "answer": "Our team is experienced in AWS, Microsoft Azure, and Google Cloud Platform."
+  },
+  {
+    "question": "Do you work with startups or only enterprises?",
+    "answer": "We work with businesses of all sizes, from startups to large enterprises."
+  },
+  {
+    "question": "What is your typical project timeline?",
+    "answer": "Project timelines depend on scope but typically range from 2 weeks for MVPs to 3-6 months for full-scale applications."
+  },
+  {
+    "question": "Can you integrate APIs from third-party services?",
+    "answer": "Yes, we regularly integrate APIs for payment gateways, social media, CRMs, and more."
+  },
+  {
+    "question": "Do you offer IT staff augmentation?",
+    "answer": "Yes, we provide experienced developers on a contract or hourly basis to support your team."
+  },
+  {
+    "question": "What is agile development?",
+    "answer": "Agile is a flexible software development methodology focused on iterative development, collaboration, and customer feedback."
+  },
+  {
+    "question": "Do you provide UI/UX design services?",
+    "answer": "Yes, we offer user experience and interface design tailored to enhance user engagement."
+  },
+  {
+    "question": "Can I get a free consultation?",
+    "answer": "Yes, we offer a free initial consultation to understand your requirements."
+  },
+  {
+    "question": "What is your pricing model?",
+    "answer": "We offer fixed price, hourly, and dedicated team models depending on the project."
+  },
+  {
+    "question": "Do you provide IT support services?",
+    "answer": "Yes, we offer 24/7 IT support services for all your infrastructure and software needs."
+  },
+  {
+    "question": "Do you build e-commerce platforms?",
+    "answer": "Yes, we build scalable e-commerce solutions with features like payment integration, cart, and admin dashboards."
+  },
+  {
+    "question": "How do you ensure code quality?",
+    "answer": "We follow code reviews, automated testing, and continuous integration practices to ensure high code quality."
+  },
+  {
+    "question": "What is the process for starting a project with you?",
+    "answer": "You can contact us via our website or email, and we’ll schedule a meeting to discuss your requirements and provide a proposal."
+  },
+  {
+    "question": "Do you work on legacy systems?",
+    "answer": "Yes, we help modernize and integrate legacy systems with modern technologies."
+  },
+  {
+    "question": "Can you help us with IT infrastructure setup?",
+    "answer": "Yes, we assist in setting up servers, networks, and cloud infrastructure based on your needs."
+  },
+  {
+    "question": "Do you use project management tools?",
+    "answer": "Yes, we use tools like Jira, Trello, and Asana for tracking project progress and communication."
+  },
+  {
+    "question": "What sets your IT company apart?",
+    "answer": "Our client-centric approach, skilled team, transparent communication, and commitment to quality set us apart."
+  },
+  {
+    "question": "Do you offer training for deployed systems?",
+    "answer": "Yes, we provide training sessions and documentation for your team to use the system efficiently."
+  },
+  {
+    "question": "Can I get a demo of your previous work?",
+    "answer": "Yes, we can share case studies and demos upon request."
+  },
+
+  {
+    "question": "What are managed IT services?",
+    "answer": "Managed IT services involve outsourcing your IT operations to a third-party provider who manages and maintains your infrastructure."
+  },
+  {
+    "question": "Can you help with setting up office networks?",
+    "answer": "Yes, we design and install wired and wireless networks for offices including routers, switches, and access points."
+  },
+  {
+    "question": "Do you offer data backup and recovery solutions?",
+    "answer": "Yes, we provide cloud-based and on-premise backup solutions along with disaster recovery planning."
+  },
+  {
+    "question": "What is virtualization in IT?",
+    "answer": "Virtualization allows you to run multiple operating systems or applications on a single physical server, improving resource efficiency."
+  },
+  {
+    "question": "Do you offer remote IT support?",
+    "answer": "Yes, our team provides secure and fast remote IT support for troubleshooting and assistance."
+  },
+  {
+    "question": "What antivirus solutions do you recommend?",
+    "answer": "We recommend enterprise-grade antivirus like Bitdefender, Norton, or Kaspersky for robust protection."
+  },
+  {
+    "question": "Can you help secure our internal network?",
+    "answer": "Yes, we implement firewalls, access control, and encryption to secure your internal IT infrastructure."
+  },
+  {
+    "question": "Do you provide helpdesk support?",
+    "answer": "Yes, our helpdesk team offers support through phone, email, and chat for resolving IT issues."
+  },
+  {
+    "question": "What is your response time for support issues?",
+    "answer": "We typically respond to critical issues within 1 hour and non-critical issues within 4 hours."
+  },
+  {
+    "question": "Do you support hybrid working setups?",
+    "answer": "Yes, we set up secure remote access solutions including VPNs and cloud collaboration tools."
+  },
+  {
+    "question": "Can you provide domain and hosting services?",
+    "answer": "Yes, we help with domain registration, web hosting, and server management."
+  },
+  {
+    "question": "What is a firewall and do I need one?",
+    "answer": "A firewall is a security system that monitors and controls incoming and outgoing network traffic. Yes, it's essential for protecting your network."
+  },
+  {
+    "question": "Do you install CCTV and surveillance systems?",
+    "answer": "Yes, we provide IT-integrated CCTV installation with remote monitoring and recording."
+  },
+  {
+    "question": "Can you audit our current IT setup?",
+    "answer": "Yes, we offer detailed IT audits to identify risks, inefficiencies, and improvement areas."
+  },
+  {
+    "question": "What is the difference between SSD and HDD?",
+    "answer": "SSDs are faster, more reliable, and use flash memory. HDDs are cheaper but slower and use spinning disks."
+  },
+  {
+    "question": "Do you offer email hosting and configuration?",
+    "answer": "Yes, we set up and manage business email accounts using platforms like Google Workspace and Microsoft 365."
+  },
+  {
+    "question": "Can you build a custom ERP system?",
+    "answer": "Yes, we design and develop ERP systems tailored to your organization’s workflow."
+  },
+  {
+    "question": "What is network cabling and do you provide it?",
+    "answer": "Network cabling connects your IT hardware. Yes, we provide installation and maintenance for CAT6 and fiber optics."
+  },
+  {
+    "question": "Do you provide biometric attendance systems?",
+    "answer": "Yes, we supply and integrate biometric and RFID attendance tracking systems."
+  },
+  {
+    "question": "What is your experience with database development?",
+    "answer": "We work with databases like MySQL, PostgreSQL, MongoDB, and MS SQL for application and enterprise needs."
+  },
+  {
+    "question": "Can you help us with compliance like GDPR?",
+    "answer": "Yes, we ensure that our IT practices follow GDPR, HIPAA, and other data protection regulations."
+  },
+  {
+    "question": "What is your software testing approach?",
+    "answer": "We follow a rigorous QA process including manual, automated, and performance testing."
+  },
+  {
+    "question": "Do you provide system integration services?",
+    "answer": "Yes, we connect and integrate multiple systems and applications to improve workflow and data sharing."
+  },
+  {
+    "question": "Can you build an internal company portal?",
+    "answer": "Yes, we develop intranet portals for document sharing, announcements, and employee tools."
+  },
+  {
+    "question": "Do you provide graphic design for websites?",
+    "answer": "Yes, our design team provides modern, user-friendly graphic and web design services."
+  },
+  {
+    "question": "Can you optimize our website for SEO?",
+    "answer": "Yes, we offer SEO audits, keyword research, and on-page optimization to improve search rankings."
+  },
+  {
+    "question": "Do you offer digital marketing services?",
+    "answer": "Yes, we offer SEO, social media, PPC, and email marketing services to promote your business."
+  },
+  {
+    "question": "What is SaaS and can you build it?",
+    "answer": "SaaS stands for Software as a Service. Yes, we can build and deploy SaaS applications tailored to your business."
+  },
+  {
+    "question": "Can you maintain our legacy systems while developing new solutions?",
+    "answer": "Yes, we support legacy systems and work on parallel development for modernization."
+  },
+  {
+    "question": "Do you work on cross-platform desktop applications?",
+    "answer": "Yes, we develop desktop apps using Electron, .NET, or Java for Windows, Mac, and Linux."
+  },
+  {
+    "question": "Can you implement AI in our software?",
+    "answer": "Yes, we integrate AI models for chatbots, prediction systems, and data analytics."
+  },
+  {
+    "question": "Do you offer IT consultancy for startups?",
+    "answer": "Yes, we guide startups with technical architecture, team building, and MVP development."
+  },
+  {
+    "question": "Can you secure our cloud infrastructure?",
+    "answer": "Yes, we provide encryption, IAM, firewalls, and monitoring for cloud infrastructure."
+  },
+  {
+    "question": "Do you provide training on the systems you build?",
+    "answer": "Yes, we provide in-person or remote training and documentation."
+  },
+  {
+    "question": "Do you offer scalable software solutions?",
+    "answer": "Yes, we design scalable systems that grow with your business."
+  },
+  {
+    "question": "What platforms do you use for mobile development?",
+    "answer": "We use React Native, Flutter, Kotlin, and Swift depending on your needs."
+  },
+  {
+    "question": "Can you recover lost data?",
+    "answer": "We provide professional data recovery services from damaged or corrupted drives."
+  },
+  {
+    "question": "Do you provide Point of Sale (POS) software?",
+    "answer": "Yes, we build and deploy POS systems for retail, restaurants, and supermarkets."
+  },
+  {
+    "question": "Can you automate our business processes?",
+    "answer": "Yes, we implement automation solutions using scripts, bots, and workflow tools."
+  },
+  {
+    "question": "Do you provide performance monitoring tools?",
+    "answer": "Yes, we set up tools like New Relic, Datadog, or custom dashboards to monitor systems."
+  },
+  {
+    "question": "What is your approach to system scalability?",
+    "answer": "We use microservices, containerization, and cloud auto-scaling to build scalable systems."
+  },
+  {
+    "question": "Do you offer hybrid mobile apps?",
+    "answer": "Yes, we build hybrid apps using frameworks like Ionic and Flutter."
+  },
+  {
+    "question": "Can you help us build a chatbot?",
+    "answer": "Yes, we design and deploy AI-powered chatbots for websites, apps, and social platforms."
+  },
+  {
+    "question": "Do you offer hardware procurement services?",
+    "answer": "Yes, we help you choose and procure IT hardware like laptops, servers, and peripherals."
+  },
+  {
+    "question": "Can you manage our cloud servers?",
+    "answer": "Yes, we manage cloud infrastructure including deployment, monitoring, and updates."
+  },
+  {
+    "question": "What is containerization and do you support it?",
+    "answer": "Containerization packages software in containers (like Docker) to run reliably across platforms. Yes, we support it."
+  },
+  {
+    "question": "Do you offer SaaS product maintenance?",
+    "answer": "Yes, we provide ongoing maintenance, updates, and user support for SaaS products."
+  },
+  {
+    "question": "Can you help build a marketplace platform?",
+    "answer": "Yes, we develop multi-vendor eCommerce and service marketplaces."
+  },
+  {
+    "question": "Do you develop CRM software?",
+    "answer": "Yes, we build custom CRM platforms to manage your sales and customer relationships."
+  },
+  {
+    "question": "Do you offer load balancing solutions?",
+    "answer": "Yes, we configure load balancers to distribute traffic and ensure system stability."
+  },
+  {
+    "question": "Can you build HR management systems?",
+    "answer": "Yes, we build HRMS platforms for payroll, attendance, and employee records."
+  },
+  {
+    "question": "Do you provide network security assessments?",
+    "answer": "Yes, we perform audits, vulnerability scans, and penetration tests to assess network security."
+  },
+  {
+    "question": "Can you develop fintech applications?",
+    "answer": "Yes, we build secure and compliant fintech apps for payments, lending, and finance tracking."
+  },
+  {
+    "question": "Do you offer analytics and reporting tools?",
+    "answer": "Yes, we integrate dashboards and data analytics tools for business intelligence."
+  },
+  {
+    "question": "Can you develop a learning management system (LMS)?",
+    "answer": "Yes, we build LMS platforms with course management, quizzes, and certification support."
+  },
+  {
+    "question": "What is your experience with microservices?",
+    "answer": "We build systems with microservices architecture for modular, scalable applications."
+  },
+  {
+    "question": "Do you support CI/CD pipeline setup?",
+    "answer": "Yes, we set up CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI, and more."
+  },
+  {
+    "question": "Do you develop Progressive Web Apps (PWAs)?",
+    "answer": "Yes, we develop PWAs that work offline and feel like native apps."
+  },
+  {
+    "question": "Can you support multi-language applications?",
+    "answer": "Yes, we build apps with internationalization and multi-language support."
+  },
+
+  {
+"question": "What is HTML used for?",
+"answer": "HTML is used to structure the content and meaning of a web page."
+},
+{
+"question": "What is the primary role of CSS?",
+"answer": "CSS is used to style the visual presentation and layout of web pages."
+},
+{
+"question": "What does JavaScript add to a website?",
+"answer": "JavaScript adds interactivity, dynamic behavior, and complex features to websites."
+},
+{
+"question": "What is responsive web design?",
+"answer": "It is an approach to make web pages render well on a variety of devices and screen sizes."
+},
+{
+"question": "What is a native mobile app?",
+"answer": "A native app is built specifically for one operating system, like iOS or Android, for best performance."
+},
+{
+"question": "What is the benefit of a cross-platform app?",
+"answer": "You write one codebase that works on multiple platforms like iOS and Android, saving time."
+},
+{
+"question": "What is a server in simple terms?",
+"answer": "A server is a powerful computer that stores website files and data, and delivers them to users' browsers."
+},
+{
+"question": "What is a domain name?",
+"answer": "A domain name is the human-friendly address of a website on the internet, like google.com."
+},
+{
+"question": "What is web hosting?",
+"answer": "Web hosting is a service that stores a website's files on a server to make it accessible online."
+},
+{
+"question": "What is a 'bug' in software?",
+"answer": "A bug is an error or flaw in a computer program that causes it to produce an incorrect or unexpected result."
+},
+{
+"question": "What is Agile methodology?",
+"answer": "Agile is an iterative approach to software development that focuses on collaboration and flexibility."
+},
+{
+"question": "What is the difference between UX and UI design?",
+"answer": "UX is about the overall feel of the experience, while UI is about the specific visual controls and layout."
+},
+{
+"question": "What does an SSL certificate do?",
+"answer": "An SSL certificate encrypts the connection between a user's browser and the server, ensuring data is secure."
+},
+{
+"question": "What does CI/CD mean?",
+"answer": "CI/CD stands for Continuous Integration and Continuous Delivery, which automates the process of software releases."
+},
+{
+"question": "What is open-source software?",
+"answer": "Open-source software is code that is designed to be publicly accessible for anyone to see, modify, and distribute."
+},
+{
+"question": "What is the DOM?",
+"answer": "The DOM, or Document Object Model, is a programming interface that represents a web page's structure so scripts can change its content and style."
+},
+{
+"question": "What is a single-page application (SPA)?",
+"answer": "A SPA is a web app that loads a single HTML page and dynamically updates content, creating a fluid user experience without page reloads."
+},
+{
+"question": "What is Web Accessibility (a11y)?",
+"answer": "It is the practice of designing websites so that people with disabilities can use them effectively."
+},
+{
+"question": "What is the purpose of a CSS framework like Bootstrap or Tailwind?",
+"answer": "CSS frameworks provide pre-built components and styles to help developers build responsive and consistent user interfaces much faster."
+},
+{
+"question": "What is state management in frameworks like React or Vue?",
+"answer": "State management is a way to handle data that changes over time and is shared across multiple components in an application."
+},
+{
+"question": "What is middleware in backend development?",
+"answer": "Middleware is software that intercepts requests and responses to perform tasks like authentication, logging, or data parsing before they reach the main application logic."
+},
+{
+"question": "What is a JWT (JSON Web Token)?",
+"answer": "A JWT is a compact and secure way to transmit information between parties as a JSON object, commonly used for user authentication."
+},
+{
+"question": "What is server-side rendering (SSR)?",
+"answer": "SSR is a technique where the web page is rendered on the server before being sent to the browser, which can improve performance and SEO."
+},
+{
+"question": "What is the purpose of Node.js?",
+"answer": "Node.js is a runtime environment that allows developers to run JavaScript code on the server-side to build scalable network applications."
+},
+{
+"question": "What is a RESTful API?",
+"answer": "A RESTful API is an architectural style for designing networked applications, using standard HTTP methods like GET, POST, PUT, and DELETE."
+},
+{
+"question": "What is an SDK (Software Development Kit)?",
+"answer": "An SDK is a collection of software development tools in one installable package, used for building applications for a specific platform like Android or iOS."
+},
+{
+"question": "What is the purpose of Gradle in Android development?",
+"answer": "Gradle is a build automation tool that compiles an app's code and resources into a runnable APK or AAB file."
+},
+{
+"question": "What is SwiftUI?",
+"answer": "SwiftUI is Apple's modern, declarative framework for building user interfaces for all Apple platforms, including iOS and macOS."
+},
+{
+"question": "What is Flutter?",
+"answer": "Flutter is Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase."
+},
+{
+"question": "What is an APK file?",
+"answer": "An APK (Android Package Kit) is the file format used by the Android operating system for the distribution and installation of mobile apps."
+},
+{
+"question": "What is serverless computing?",
+"answer": "Serverless computing is a cloud model where the cloud provider manages the server infrastructure, and developers only need to provide code that runs in response to events."
+},
+{
+"question": "What is a container, like Docker?",
+"answer": "A container is a lightweight, standalone, executable package of software that includes everything needed to run it: code, runtime, system tools, and libraries."
+},
+{
+"question": "What is Kubernetes used for?",
+"answer": "Kubernetes is an open-source platform for automating the deployment, scaling, and management of containerized applications."
+},
+{
+"question": "What is an S3 Bucket on AWS?",
+"answer": "Amazon S3 (Simple Storage Service) is an object storage service. An S3 bucket is a public cloud storage resource where data is stored."
+},
+{
+"question": "What is a CDN (Content Delivery Network)?",
+"answer": "A CDN is a geographically distributed group of servers that work together to provide fast delivery of Internet content by caching it closer to users."
+},
+{
+"question": "What is Infrastructure as Code (IaC)?",
+"answer": "IaC is the practice of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration."
+},
+{
+"question": "What is a CI/CD pipeline?",
+"answer": "A CI/CD pipeline is a series of automated steps to deliver a new version of software. It includes stages like building, testing, and deploying."
+},
+{
+"question": "What is the purpose of Jenkins or GitHub Actions?",
+"answer": "Tools like Jenkins and GitHub Actions are used to automate the different stages of a CI/CD pipeline, from code commits to production deployment."
+},
+{
+"question": "What is 'monitoring' in a DevOps context?",
+"answer": "Monitoring involves collecting and analyzing data to track the performance and health of applications and infrastructure to ensure reliability."
+},
+{
+"question": "What is a 'pull request' in Git?",
+"answer": "A pull request is a way for a developer to propose changes to the main project codebase. It allows others to review the changes before they are merged."
+},
+{
+"question": "What is encryption?",
+"answer": "Encryption is the process of converting data into a code to prevent unauthorized access. Only authorized parties can decipher it with a key."
+},
+{
+"question": "What is the difference between authentication and authorization?",
+"answer": "Authentication confirms a user's identity (who they are), while authorization determines their access rights to resources (what they can do)."
+},
+{
+"question": "What is a DDoS attack?",
+"answer": "A Distributed Denial-of-Service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a server by overwhelming it with a flood of Internet traffic."
+},
+{
+"question": "What is two-factor authentication (2FA)?",
+"answer": "2FA is a security process where users provide two different authentication factors to verify themselves, adding an extra layer of security."
+},
+{
+"question": "What is a SQL Injection attack?",
+"answer": "A SQL Injection is a code injection technique that might destroy your database. It involves inserting malicious SQL statements into an entry field for execution."
+},
+{
+"question": "What is a primary key in a database table?",
+"answer": "A primary key is a column (or set of columns) in a table that uniquely identifies each row. It must contain unique values and cannot have null values."
+},
+{
+"question": "What is a database index?",
+"answer": "An index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space."
+},
+{
+"question": "What is data normalization?",
+"answer": "Data normalization is the process of organizing columns and tables in a relational database to minimize data redundancy and improve data integrity."
+},
+{
+"question": "What is a database transaction?",
+"answer": "A transaction is a single unit of work. If a transaction fails at any point, all the operations are rolled back, ensuring the database remains in a consistent state."
+},
+{
+"question": "What does CRUD stand for?",
+"answer": "CRUD stands for Create, Read, Update, and Delete, which are the four basic functions of persistent storage and relational databases."
+},
+{
+"question": "What is the difference between HTTP and HTTPS?",
+"answer": "HTTPS (Hypertext Transfer Protocol Secure) is the secure version of HTTP. The 'S' stands for 'Secure' and means the data is encrypted."
+},
+{
+"question": "What is a network port?",
+"answer": "A port is a communication endpoint. It is used to identify a specific process or type of network service on a computer. For example, web traffic commonly uses port 80."
+},
+{
+"question": "What is bandwidth?",
+"answer": "Bandwidth is the maximum rate at which data can be transferred across a network. It's often measured in megabits per second (Mbps)."
+},
+{
+"question": "What is latency?",
+"answer": "Latency, or ping, is the delay in data communication. It's the time it takes for a signal to travel from one point to another."
+},
+{
+"question": "What is a MAC address?",
+"answer": "A MAC (Media Access Control) address is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment."
+},
+{
+"question": "What is the difference between RAM and a hard drive?",
+"answer": "RAM (Random Access Memory) is volatile memory used for active tasks, while a hard drive is non-volatile storage used for long-term data saving."
+},
+{
+"question": "What is a CPU?",
+"answer": "The CPU (Central Processing Unit) is the primary component of a computer that performs most of the processing. It is often called the 'brain' of the computer."
+},
+{
+"question": "What is an Operating System (OS)?",
+"answer": "An OS is system software that manages computer hardware and software resources and provides common services for computer programs. Examples include Windows, macOS, and Linux."
+},
+{
+"question": "What is the 'kernel' of an operating system?",
+"answer": "The kernel is the central component of an OS. It manages the system's resources and the communication between hardware and software components."
+},
+{
+"question": "What is the command line or terminal?",
+"answer": "The command line is a text-based interface used to view, handle, and manipulate files and programs on a computer."
+},
+{
+"question": "What is the difference between Scrum and Kanban?",
+"answer": "Scrum is a framework with structured sprints and defined roles. Kanban is a more flexible method focused on visualizing workflow and limiting work-in-progress."
+},
+{
+"question": "What is 'technical debt'?",
+"answer": "Technical debt is the implied cost of rework caused by choosing an easy, limited solution now instead of using a better approach that would take longer."
+},
+{
+"question": "What is a 'stack' in software development?",
+"answer": "A stack is a collection of technologies used to build a web or mobile application. For example, the MERN stack is MongoDB, Express.js, React, and Node.js."
+},
+{
+"question": "What is 'scalability'?",
+"answer": "Scalability is the ability of a system to handle a growing amount of work by adding resources. It can be vertical (adding more power) or horizontal (adding more machines)."
+},
+{
+"question": "What does it mean to 'refactor' code?",
+"answer": "Refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior, to improve its readability and reduce complexity."
+},
+{
+"question": "What is a wireframe in UI design?",
+"answer": "A wireframe is a low-fidelity, basic visual guide that represents the skeletal framework of a website or app."
+},
+{
+"question": "What is a prototype in the design process?",
+"answer": "A prototype is an interactive, high-fidelity model of a final product used for testing and user feedback before development begins."
+},
+{
+"question": "What is usability testing?",
+"answer": "Usability testing is a technique used to evaluate a product by testing it on real users to identify any usability problems."
+},
+{
+"question": "What is a user persona?",
+"answer": "A user persona is a fictional character created to represent a user type that might use a site, brand, or product in a similar way."
+},
+{
+"question": "What is the purpose of A/B testing?",
+"answer": "A/B testing is a method of comparing two versions of a webpage or app against each other to determine which one performs better."
+},
+{
+"question": "What is the difference between unit testing and integration testing?",
+"answer": "Unit testing checks individual components or functions in isolation, while integration testing checks how those components work together."
+},
+{
+"question": "What is regression testing?",
+"answer": "Regression testing is the process of re-running functional and non-functional tests to ensure that recent code changes have not adversely affected existing features."
+},
+{
+"question": "What is the difference between manual and automated testing?",
+"answer": "Manual testing involves a human tester checking for bugs, while automated testing uses scripts and software to perform tests automatically."
+},
+{
+"question": "What is end-to-end (E2E) testing?",
+"answer": "E2E testing is a technique used to test whether the flow of an application from start to finish is behaving as expected."
+},
+{
+"question": "What is a test case?",
+"answer": "A test case is a set of conditions or variables under which a tester will determine whether a system under test satisfies requirements or works correctly."
+},
+{
+"question": "What is a payment gateway?",
+"answer": "A payment gateway is a service that securely authorizes and processes credit card or direct payments for e-commerce sites and online retailers."
+},
+{
+"question": "What does PCI DSS compliance mean?",
+"answer": "PCI DSS (Payment Card Industry Data Security Standard) is a set of security standards designed to ensure that all companies that accept, process, or store credit card information maintain a secure environment."
+},
+{
+"question": "What is a shopping cart in e-commerce?",
+"answer": "A shopping cart is a piece of software on an e-commerce website that allows visitors to select items for eventual purchase."
+},
+{
+"question": "What is 'headless commerce'?",
+"answer": "Headless commerce is an architecture where the frontend presentation layer (the 'head') is decoupled from the backend e-commerce functionality, allowing for more flexible user experiences."
+},
+{
+"question": "What is inventory management software?",
+"answer": "Inventory management software is a tool that tracks goods through the entire supply chain, from purchasing to sale."
+},
+{
+"question": "What is a blockchain?",
+"answer": "A blockchain is a distributed and immutable digital ledger used to record transactions across many computers so that the record cannot be altered retroactively."
+},
+{
+"question": "What is a smart contract?",
+"answer": "A smart contract is a self-executing contract with the terms of the agreement directly written into code that runs on a blockchain."
+},
+{
+"question": "What is a cryptocurrency wallet?",
+"answer": "A cryptocurrency wallet is a digital wallet that allows users to store, send, and receive digital assets like Bitcoin or Ethereum."
+},
+{
+"question": "What is an NFT (Non-Fungible Token)?",
+"answer": "An NFT is a unique digital asset that represents ownership of real-world items like art, music, or videos, secured on a blockchain."
+},
+{
+"question": "What is a Decentralized Application (dApp)?",
+"answer": "A dApp is an application that runs on a decentralized peer-to-peer network, such as a blockchain, rather than on a single computer."
+},
+{
+"question": "What is the Internet of Things (IoT)?",
+"answer": "The IoT is a network of physical objects—'things'—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices over the Internet."
+},
+{
+"question": "What is an IoT sensor?",
+"answer": "An IoT sensor is a device that detects and responds to some type of input from the physical environment, such as light, heat, motion, or pressure, and then sends that data over a network."
+},
+{
+"question": "What is edge computing?",
+"answer": "Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data, improving response times and saving bandwidth."
+},
+{
+"question": "What is a smart home device?",
+"answer": "A smart home device is an appliance or device that connects to the internet and can be controlled remotely, such as smart lights, thermostats, and security cameras."
+},
+{
+"question": "What is MQTT?",
+"answer": "MQTT is a lightweight messaging protocol designed for constrained devices and low-bandwidth networks, making it ideal for many IoT applications."
+},
+{
+"question": "What is 'Big Data'?",
+"answer": "Big Data refers to extremely large and complex datasets that cannot be easily managed or processed with traditional data-processing application software."
+},
+{
+"question": "What is the difference between a data lake and a data warehouse?",
+"answer": "A data warehouse stores structured, filtered data for a specific purpose, while a data lake is a vast pool of raw data in its native format, purpose not yet defined."
+},
+{
+"question": "What is Hadoop?",
+"answer": "Hadoop is an open-source framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models."
+},
+{
+"question": "What is data mining?",
+"answer": "Data mining is the process of discovering patterns and other valuable information from large sets of data."
+},
+{
+"question": "What is data visualization?",
+"answer": "Data visualization is the graphical representation of information and data. It uses visual elements like charts, graphs, and maps to make data easier to understand."
+},
+{
+"question": "What is the main difference between REST and GraphQL?",
+"answer": "REST APIs expose multiple endpoints for different data resources, while GraphQL uses a single endpoint that allows clients to request exactly the data they need."
+},
+{
+"question": "What is an API key used for?",
+"answer": "An API key is a unique code used to identify and authenticate an application or user when making requests to an API, often for tracking usage."
+},
+{
+"question": "What is a webhook?",
+"answer": "A webhook is an automated message sent from an app when a specific event happens. It provides real-time data to other applications."
+},
+{
+"question": "What does API 'idempotency' mean?",
+"answer": "Idempotency is a property of an API operation meaning that making the same request multiple times produces the same result as making it once."
+},
+{
+"question": "What is the difference between monolithic and microservices architecture?",
+"answer": "A monolith is a single, unified application, while microservices architecture breaks an application down into a collection of smaller, independent services."
+},
+{
+"question": "What is the MVC design pattern?",
+"answer": "MVC (Model-View-Controller) is an architectural pattern that separates an application into three components: the Model (data), the View (UI), and the Controller (logic)."
+},
+{
+"question": "What is a 'design pattern' in software engineering?",
+"answer": "A design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design."
+},
+{
+"question": "What is 'load balancing'?",
+"answer": "Load balancing is the process of distributing network traffic across multiple servers to ensure no single server becomes overwhelmed, improving responsiveness and availability."
+},
+{
+"question": "What is a Content Management System (CMS)?",
+"answer": "A CMS is a software application that allows users to create, manage, and modify digital content on a website without needing specialized technical knowledge."
+},
+{
+"question": "What is WordPress?",
+"answer": "WordPress is a popular open-source CMS used for creating websites and blogs, known for its flexibility and large ecosystem of themes and plugins."
+},
+{
+"question": "What is the difference between a traditional and a headless CMS?",
+"answer": "A traditional CMS couples the content management backend with the frontend presentation layer. A headless CMS is just the backend, providing content via an API to any frontend."
+},
+{
+"question": "What does a Product Manager do?",
+"answer": "A Product Manager is responsible for defining the 'why', 'what', and 'when' of a product, focusing on user needs and business goals to guide its development."
+},
+{
+"question": "What is the role of a Scrum Master?",
+"answer": "A Scrum Master is a facilitator for an Agile development team, responsible for ensuring the team follows Scrum principles and removing impediments to their progress."
+},
+{
+"question": "What does a Data Analyst do?",
+"answer": "A Data Analyst inspects, cleans, transforms, and models data with the goal of discovering useful information, informing conclusions, and supporting decision-making."
+},
+{
+"question": "What is a DevOps Engineer responsible for?",
+"answer": "A DevOps Engineer works with developers and IT staff to oversee code releases, bridging the gap between development and operations by automating the software delivery pipeline."
+},
+{
+"question": "What is the difference between a process and a thread?",
+"answer": "A process is an instance of a running program with its own memory space. A thread is the smallest unit of execution within a process, and threads within a process share the same memory."
+},
+{
+"question": "What is virtual memory?",
+"answer": "Virtual memory is a memory management technique where secondary memory, like a hard drive, can be used as if it were part of the main RAM, allowing for larger applications to run."
+},
+{
+"question": "What is a file system?",
+"answer": "A file system is a method and data structure that an operating system uses to control how data is stored and retrieved on a storage device."
+},
+{
+"question": "What is GDPR?",
+"answer": "The General Data Protection Regulation (GDPR) is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area."
+},
+{
+"question": "What is the difference between copyright and patent?",
+"answer": "Copyright protects original works of authorship like code and text, while a patent protects inventions or discoveries of new and useful processes or machines."
+},
+{
+"question": "What is a common characteristic of an MIT license for software?",
+"answer": "The MIT license is a permissive open-source license that places very few restrictions on reuse, making it extremely popular for open-source projects."
+},
+{
+"question": "What is the main difference between JSON and XML?",
+"answer": "JSON is generally lighter and easier to read, using key-value pairs. XML uses tags, is more verbose, and can be more flexible for representing complex data structures."
+},
+{
+"question": "What is YAML used for?",
+"answer": "YAML is a human-readable data serialization format often used for writing configuration files in software development and DevOps."
+},
+{
+"question": "What is Markdown?",
+"answer": "Markdown is a lightweight markup language with plain-text-formatting syntax, designed to be easily converted to HTML."
+},
+{
+"question": "What is a web browser engine?",
+"answer": "A browser engine, like Blink in Chrome or Gecko in Firefox, is the core software that interprets HTML, CSS, and JavaScript to render a webpage."
+},
+{
+"question": "What is the difference between cookies and local storage?",
+"answer": "Cookies are small pieces of data sent with every server request, used for session tracking. Local storage is a larger, client-side storage that persists and is not sent with requests."
+},
+{
+"question": "What is WebAssembly (Wasm)?",
+"answer": "WebAssembly is a binary instruction format that allows code written in languages like C++ or Rust to run in a web browser at near-native speed."
+},
+{
+"question": "What is the difference between proprietary and open-source software?",
+"answer": "Proprietary software has source code that only the owner can alter. Open-source software makes the source code publicly available for anyone to inspect and modify."
+},
+{
+"question": "What is a SaaS license model?",
+"answer": "A SaaS (Software as a Service) license is a subscription-based model where users pay a recurring fee to access software hosted by a vendor over the internet."
+},
+{
+"question": "What is a perpetual software license?",
+"answer": "A perpetual license is a model where a user makes a one-time payment to own and use a version of a software application indefinitely."
+},
+{
+"question": "What is a legacy system?",
+"answer": "A legacy system is an outdated computing software or hardware that is still in use. It may be functional but difficult to maintain, support, or integrate with new systems."
+},
+{
+"question": "What is a 'monolith to microservices' migration?",
+"answer": "It is the process of re-architecting a large, single (monolithic) application into a collection of smaller, independent services (microservices) to improve scalability and maintainability."
+},
+{
+"question": "Why is it important to update legacy systems?",
+"answer": "Updating legacy systems is important to mitigate security risks, improve performance, ensure compatibility with modern technology, and reduce high maintenance costs."
+},
+{
+"question": "What is IT Service Management (ITSM)?",
+"answer": "ITSM refers to all the activities involved in designing, creating, delivering, supporting, and managing the lifecycle of IT services."
+},
+{
+"question": "What is the ITIL framework?",
+"answer": "ITIL (Information Technology Infrastructure Library) is a widely accepted set of best practices for implementing IT Service Management."
+},
+{
+"question": "What is a Service Level Agreement (SLA)?",
+"answer": "An SLA is a contract between a service provider and a client that defines the level of service expected, including metrics for uptime and responsiveness."
+},
+{
+"question": "What is Robotic Process Automation (RPA)?",
+"answer": "RPA is a technology that uses software 'bots' to automate repetitive, rules-based business tasks that are typically performed by humans."
+},
+{
+"question": "How is RPA different from Artificial Intelligence (AI)?",
+"answer": "RPA bots follow predefined rules to execute tasks, whereas AI is designed to simulate human intelligence and make decisions. AI can handle exceptions, while RPA cannot."
+},
+{
+"question": "What is a common use case for RPA?",
+"answer": "A common use case for RPA is data entry, where a bot can read information from one system, like an email, and accurately enter it into another system, like a CRM."
+},{
+"question": "What is the main benefit of implementing RPA?",
+"answer": "The main benefit is increased efficiency. RPA bots can perform tasks faster, 24/7, and with fewer errors than humans, freeing up employees for more strategic work."
+},
+{
+"question": "What is the difference between attended and unattended RPA?",
+"answer": "Attended bots work alongside humans, typically triggered by a user to automate parts of a task. Unattended bots run independently on a schedule to perform back-office processes without human intervention."
+},
+{
+"question": "What are some popular RPA tools?",
+"answer": "Popular tools in the RPA market include UiPath, Automation Anywhere, and Blue Prism."
+},
+{
+"question": "What is an 'incident' in ITSM?",
+"answer": "An incident is an unplanned interruption to an IT service or a reduction in the quality of an IT service. The goal is to restore service as quickly as possible."
+},
+{
+"question": "What is 'problem management' in ITIL?",
+"answer": "Problem management is the process of identifying and managing the root causes of incidents to prevent them from recurring."
+},
+{
+"question": "What is a 'change request' in ITSM?",
+"answer": "A change request is a formal proposal for an alteration to some IT system or service, which is reviewed and approved to minimize risk and disruption."
+},
+{
+"question": "What are the primary risks of using legacy systems?",
+"answer": "The primary risks include high maintenance costs, lack of skilled support, incompatibility with modern systems, and significant security vulnerabilities."
+},
+{
+"question": "What is the 'Strangler Fig Pattern' for modernization?",
+"answer": "It's a strategy where a new system is gradually built around an old one. Over time, the new system 'strangles' the old one until the legacy system can be decommissioned."
+},
+{
+"question": "What does the term 'copyleft' mean in software licensing?",
+"answer": "Copyleft is a type of license (like the GPL) that allows derivative works but requires them to be released under the same or a compatible license, ensuring the work remains open source."
+},
+{
+"question": "What is a 'concurrent user' license?",
+"answer": "A concurrent, or floating, license allows a maximum number of users to access a software application at the same time, regardless of how many have it installed."
+},
+{
+"question": "What is quantum computing in simple terms?",
+"answer": "Quantum computing is a revolutionary type of computing that uses the principles of quantum mechanics to solve problems too complex for classical computers."
+},
+{
+"question": "What is a 'qubit'?",
+"answer": "A qubit, or quantum bit, is the basic unit of quantum information. Unlike a classical bit (0 or 1), a qubit can exist as a 0, a 1, or both at the same time (superposition)."
+},
+{
+"question": "What is quantum supremacy?",
+"answer": "Quantum supremacy is the milestone of a quantum computer successfully performing a task that a classical supercomputer cannot feasibly complete."
+},
+{
+"question": "What is Fintech?",
+"answer": "Fintech refers to new technology that seeks to improve and automate the delivery and use of financial services, from mobile banking to cryptocurrency."
+},
+{
+"question": "What is 'Open Banking'?",
+"answer": "Open Banking is a practice that provides third-party financial service providers open access to consumer banking and financial data through the use of APIs."
+},
+{
+"question": "What is Insurtech?",
+"answer": "Insurtech refers to the use of technology innovations designed to find savings and efficiency from the current insurance industry model."
+},
+{
+"question": "What is 'Green IT'?",
+"answer": "Green IT, or sustainable IT, is the practice of environmentally sustainable computing. It aims to minimize the negative environmental impact of IT operations."
+},
+{
+"question": "What is a major goal of Green IT?",
+"answer": "A major goal is to reduce the energy consumption of data centers, computers, and peripherals, and to promote recyclability and biodegradability of digital devices."
+},
+{
+"question": "What is e-waste?",
+"answer": "E-waste refers to discarded electrical or electronic devices. Used electronics which are destined for refurbishment, reuse, or recycling are also considered e-waste."
+},
+{
+"question": "What are low-code/no-code platforms?",
+"answer": "These are platforms that provide a graphical user interface for software development, allowing users to create applications with minimal or no traditional coding."
+},
+{
+"question": "What is a key benefit of using a no-code platform?",
+"answer": "A key benefit is speed. It allows non-technical users, or 'citizen developers,' to build and launch applications much faster than with traditional development methods."
+},
+{
+"question": "What is a limitation of low-code/no-code platforms?",
+"answer": "A primary limitation is a lack of flexibility and customization. They are not always suitable for highly complex or unique application requirements."
+}
+]
