@@ -1194,5 +1194,147 @@
 {
 "question": "What is a limitation of low-code/no-code platforms?",
 "answer": "A primary limitation is a lack of flexibility and customization. They are not always suitable for highly complex or unique application requirements."
-}
+},
+
+  {
+    "question": "What is included in desktop support services?",
+    "answer": "Our desktop support covers software installation, troubleshooting, performance optimization, and security updates."
+  },
+  {
+    "question": "Can you help with printer and peripheral setup?",
+    "answer": "Yes, we assist in configuring printers, scanners, webcams, and other devices for seamless operation."
+  },
+  {
+    "question": "Do you provide server installation and configuration?",
+    "answer": "Yes, we install, configure, and maintain Windows and Linux-based servers."
+  },
+  {
+    "question": "Can you configure VLANs and manage switches?",
+    "answer": "Yes, we configure VLANs, manage Layer 2/3 switches, and optimize network performance."
+  },
+  {
+    "question": "How do you handle software license management?",
+    "answer": "We track, renew, and ensure compliance for all licensed software across your organization."
+  },
+  
+  {
+    "question": "What is cloud-native development?",
+    "answer": "Cloud-native development involves building applications designed specifically for cloud environments using microservices, containers, and DevOps."
+  },
+  {
+    "question": "Do you provide hybrid cloud setup?",
+    "answer": "Yes, we design hybrid cloud systems combining on-premise and cloud infrastructures for flexibility and control."
+  },
+  {
+    "question": "Can you set up a private cloud for our business?",
+    "answer": "Yes, we build secure private clouds using OpenStack or VMware tailored to your data and compliance needs."
+  },
+  {
+    "question": "What is your approach to disaster recovery in the cloud?",
+    "answer": "We use replication, automated backups, and multi-region deployment for disaster recovery in cloud setups."
+  },
+  {
+    "question": "How do you ensure uptime in cloud-hosted apps?",
+    "answer": "We implement auto-scaling, load balancing, and redundancy to ensure high availability and minimal downtime."
+  },
+  {
+    "question": "Do you provide vulnerability assessment services?",
+    "answer": "Yes, we perform network and application vulnerability assessments to detect and mitigate risks."
+  },
+  {
+    "question": "What is penetration testing?",
+    "answer": "Penetration testing simulates cyberattacks to evaluate the security of your systems and networks."
+  },
+  {
+    "question": "Can you set up secure access with 2FA?",
+    "answer": "Yes, we integrate Two-Factor Authentication (2FA) using apps, OTP, and biometric systems."
+  },
+  {
+    "question": "What is endpoint security?",
+    "answer": "Endpoint security protects end-user devices like PCs and mobiles from threats through antivirus, firewalls, and access control."
+  },
+  {
+    "question": "How do you handle ransomware prevention?",
+    "answer": "We use proactive threat detection, patching, backups, and employee awareness training to prevent ransomware attacks."
+  },
+   {
+    "question": "Do you follow Agile or Waterfall development?",
+    "answer": "We primarily follow Agile methodology but adapt based on project needs, including Waterfall for fixed-scope projects."
+  },
+  {
+    "question": "Can you build cross-device compatible applications?",
+    "answer": "Yes, we ensure responsive design and adaptive layouts for compatibility across desktops, tablets, and smartphones."
+  },
+  {
+    "question": "What languages do you use for backend development?",
+    "answer": "Our backend stack includes Python, Node.js, Java, PHP, and .NET based on client requirements."
+  },
+  {
+    "question": "How do you handle project version control?",
+    "answer": "We use Git, GitHub, or GitLab for version control, enabling collaboration, rollback, and transparency."
+  },
+  {
+    "question": "Can you develop software for industrial automation?",
+    "answer": "Yes, we design control software and dashboards for manufacturing and industrial automation needs."
+  },
+   {
+    "question": "Can you integrate machine learning models into our system?",
+    "answer": "Yes, we deploy ML models for recommendation engines, fraud detection, sentiment analysis, and more."
+  },
+  {
+    "question": "What platforms do you use for AI development?",
+    "answer": "We use TensorFlow, PyTorch, Scikit-learn, and OpenCV for AI/ML development."
+  },
+  {
+    "question": "Do you offer chatbot development services?",
+    "answer": "Yes, we create chatbots using AI, NLP, and rule-based engines for customer support and automation."
+  },
+  {
+    "question": "Can you build a data dashboard for our business?",
+    "answer": "Yes, we build interactive dashboards using tools like Power BI, Tableau, and custom web-based analytics panels."
+  },
+  {
+    "question": "Do you support predictive analytics?",
+    "answer": "Yes, we develop models to analyze trends and forecast outcomes for better decision-making."
+  },
+  {
+    "question": "Can you build a multilingual website?",
+    "answer": "Yes, we support website localization with multiple languages and regional settings."
+  },
+  {
+    "question": "Do you offer headless CMS development?",
+    "answer": "Yes, we use headless CMS like Strapi, Contentful, and Sanity for flexible content management."
+  },
+  {
+    "question": "Can you build websites using WordPress?",
+    "answer": "Yes, we design and customize WordPress websites for business, blogs, and e-commerce."
+  },
+  {
+    "question": "What payment gateways can you integrate?",
+    "answer": "We integrate PayPal, Stripe, Razorpay, Paytm, and custom gateways as per your region."
+  },
+  {
+    "question": "Can you build a subscription-based e-commerce site?",
+    "answer": "Yes, we create platforms with recurring payments, membership management, and customer profiles."
+  },
+  {
+    "question": "Can you help draft IT policies for our company?",
+    "answer": "Yes, we assist in creating IT policies for security, internet usage, BYOD, and data privacy."
+  },
+  {
+    "question": "Do you provide IT budgeting consultation?",
+    "answer": "Yes, we help plan IT budgets aligned with business goals and future expansion."
+  },
+  {
+    "question": "Can you guide us in selecting the right tech stack?",
+    "answer": "Yes, we analyze your needs and recommend the most suitable tech stack for development."
+  },
+  {
+    "question": "What is digital transformation consulting?",
+    "answer": "It’s our service to help businesses modernize processes using digital technologies like cloud, automation, and AI."
+  },
+  {
+    "question": "Do you help with IT team skill development?",
+    "answer": "Yes, we provide workshops and resources to upgrade your IT staff’s technical skills."
+  }
 ]
