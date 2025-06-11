@@ -1336,5 +1336,290 @@
   {
     "question": "Do you help with IT team skill development?",
     "answer": "Yes, we provide workshops and resources to upgrade your IT staff’s technical skills."
+  },
+  
+  {
+    "question": "What is included in desktop support services?",
+    "answer": "Our desktop support covers software installation, troubleshooting, performance optimization, and security updates."
+  },
+  {
+    "question": "Can you help with printer and peripheral setup?",
+    "answer": "Yes, we assist in configuring printers, scanners, webcams, and other devices for seamless operation."
+  },
+  {
+    "question": "Do you provide server installation and configuration?",
+    "answer": "Yes, we install, configure, and maintain Windows and Linux-based servers."
+  },
+  {
+    "question": "Can you configure VLANs and manage switches?",
+    "answer": "Yes, we configure VLANs, manage Layer 2/3 switches, and optimize network performance."
+  },
+  {
+    "question": "How do you handle software license management?",
+    "answer": "We track, renew, and ensure compliance for all licensed software across your organization."
+  },
+  {
+    "question": "What is cloud-native development?",
+    "answer": "Cloud-native development involves building applications designed specifically for cloud environments using microservices, containers, and DevOps."
+  },
+  {
+    "question": "Do you provide hybrid cloud setup?",
+    "answer": "Yes, we design hybrid cloud systems combining on-premise and cloud infrastructures for flexibility and control."
+  },
+  {
+    "question": "Can you set up a private cloud for our business?",
+    "answer": "Yes, we build secure private clouds using OpenStack or VMware tailored to your data and compliance needs."
+  },
+  {
+    "question": "What is your approach to disaster recovery in the cloud?",
+    "answer": "We use replication, automated backups, and multi-region deployment for disaster recovery in cloud setups."
+  },
+  {
+    "question": "How do you ensure uptime in cloud-hosted apps?",
+    "answer": "We implement auto-scaling, load balancing, and redundancy to ensure high availability and minimal downtime."
+  },
+  {
+    "question": "Do you provide vulnerability assessment services?",
+    "answer": "Yes, we perform network and application vulnerability assessments to detect and mitigate risks."
+  },
+  {
+    "question": "What is penetration testing?",
+    "answer": "Penetration testing simulates cyberattacks to evaluate the security of your systems and networks."
+  },
+  {
+    "question": "Can you set up secure access with 2FA?",
+    "answer": "Yes, we integrate Two-Factor Authentication (2FA) using apps, OTP, and biometric systems."
+  },
+  {
+    "question": "What is endpoint security?",
+    "answer": "Endpoint security protects end-user devices like PCs and mobiles from threats through antivirus, firewalls, and access control."
+  },
+  {
+    "question": "How do you handle ransomware prevention?",
+    "answer": "We use proactive threat detection, patching, backups, and employee awareness training to prevent ransomware attacks."
+  },
+  {
+    "question": "Do you follow Agile or Waterfall development?",
+    "answer": "We primarily follow Agile methodology but adapt based on project needs, including Waterfall for fixed-scope projects."
+  },
+  {
+    "question": "Can you build cross-device compatible applications?",
+    "answer": "Yes, we ensure responsive design and adaptive layouts for compatibility across desktops, tablets, and smartphones."
+  },
+  {
+    "question": "What languages do you use for backend development?",
+    "answer": "Our backend stack includes Python, Node.js, Java, PHP, and .NET based on client requirements."
+  },
+  {
+    "question": "How do you handle project version control?",
+    "answer": "We use Git, GitHub, or GitLab for version control, enabling collaboration, rollback, and transparency."
+  },
+  {
+    "question": "Can you develop software for industrial automation?",
+    "answer": "Yes, we design control software and dashboards for manufacturing and industrial automation needs."
+  },
+  {
+    "question": "Can you integrate machine learning models into our system?",
+    "answer": "Yes, we deploy ML models for recommendation engines, fraud detection, sentiment analysis, and more."
+  },
+  {
+    "question": "What platforms do you use for AI development?",
+    "answer": "We use TensorFlow, PyTorch, Scikit-learn, and OpenCV for AI/ML development."
+  },
+  {
+    "question": "Do you offer chatbot development services?",
+    "answer": "Yes, we create chatbots using AI, NLP, and rule-based engines for customer support and automation."
+  },
+  {
+    "question": "Can you build a data dashboard for our business?",
+    "answer": "Yes, we build interactive dashboards using tools like Power BI, Tableau, and custom web-based analytics panels."
+  },
+  {
+    "question": "Do you support predictive analytics?",
+    "answer": "Yes, we develop models to analyze trends and forecast outcomes for better decision-making."
+  },
+  {
+    "question": "Can you build a multilingual website?",
+    "answer": "Yes, we support website localization with multiple languages and regional settings."
+  },
+  {
+    "question": "Do you offer headless CMS development?",
+    "answer": "Yes, we use headless CMS like Strapi, Contentful, and Sanity for flexible content management."
+  },
+  {
+    "question": "Can you build websites using WordPress?",
+    "answer": "Yes, we design and customize WordPress websites for business, blogs, and e-commerce."
+  },
+  {
+    "question": "What payment gateways can you integrate?",
+    "answer": "We integrate PayPal, Stripe, Razorpay, Paytm, and custom gateways as per your region."
+  },
+  {
+    "question": "Can you build a subscription-based e-commerce site?",
+    "answer": "Yes, we create platforms with recurring payments, membership management, and customer profiles."
+  },
+  {
+    "question": "Can you help draft IT policies for our company?",
+    "answer": "Yes, we assist in creating IT policies for security, internet usage, BYOD, and data privacy."
+  },
+  {
+    "question": "Do you provide IT budgeting consultation?",
+    "answer": "Yes, we help plan IT budgets aligned with business goals and future expansion."
+  },
+  {
+    "question": "Can you guide us in selecting the right tech stack?",
+    "answer": "Yes, we analyze your needs and recommend the most suitable tech stack for development."
+  },
+  {
+    "question": "What is digital transformation consulting?",
+    "answer": "It’s our service to help businesses modernize processes using digital technologies like cloud, automation, and AI."
+  },
+  {
+    "question": "Do you help with IT team skill development?",
+    "answer": "Yes, we provide workshops and resources to upgrade your IT staff’s technical skills."
+  },
+  {
+    "question": "What is IoT in business applications?",
+    "answer": "IoT refers to interconnected devices that collect and exchange data to automate processes and improve decision-making."
+  },
+  {
+    "question": "Can you build a smart office solution?",
+    "answer": "Yes, we develop smart office systems for lighting, energy, and occupancy management using IoT sensors."
+  },
+  {
+    "question": "How do you ensure security in IoT systems?",
+    "answer": "We use encrypted protocols, access control, and secure device provisioning to protect IoT infrastructures."
+  },
+  {
+    "question": "Do you offer industrial IoT (IIoT) solutions?",
+    "answer": "Yes, we offer IIoT services for equipment monitoring, predictive maintenance, and real-time analytics in manufacturing."
+  },
+  {
+    "question": "Can you integrate IoT data with cloud platforms?",
+    "answer": "Yes, we connect IoT data streams to AWS IoT, Azure IoT Hub, or Google Cloud IoT Core for processing and visualization."
+  },
+  {
+    "question": "What communication protocols are used in IoT?",
+    "answer": "Common IoT protocols include MQTT, CoAP, Zigbee, Bluetooth Low Energy, and LoRaWAN."
+  },
+  {
+    "question": "What is blockchain development?",
+    "answer": "Blockchain development involves building decentralized applications and systems using distributed ledger technology."
+  },
+  {
+    "question": "Can you build a custom cryptocurrency wallet?",
+    "answer": "Yes, we design secure cryptocurrency wallets for mobile and web with multi-coin support and private key security."
+  },
+  {
+    "question": "What is a smart contract?",
+    "answer": "Smart contracts are self-executing programs on a blockchain that enforce agreements automatically without intermediaries."
+  },
+  {
+    "question": "Do you support Ethereum and Polygon networks?",
+    "answer": "Yes, we develop smart contracts and DApps on Ethereum, Polygon, BNB Chain, and other EVM-compatible chains."
+  },
+  {
+    "question": "Can you develop NFTs or NFT marketplaces?",
+    "answer": "Yes, we create custom NFT solutions including minting platforms, marketplaces, and wallet integration."
+  },
+  {
+    "question": "Is blockchain suitable for supply chain applications?",
+    "answer": "Yes, blockchain improves supply chain transparency, traceability, and fraud prevention through tamper-proof records."
+  },
+  {
+    "question": "What is Green IT?",
+    "answer": "Green IT refers to eco-friendly practices in computing, such as energy-efficient hardware, virtualization, and e-waste reduction."
+  },
+  {
+    "question": "How can we reduce IT energy consumption?",
+    "answer": "We optimize data centers, switch to cloud computing, and implement power-saving policies for devices."
+  },
+  {
+    "question": "Do you help with sustainable procurement?",
+    "answer": "Yes, we recommend hardware and suppliers based on energy efficiency, recyclability, and environmental certifications."
+  },
+  {
+    "question": "Can cloud computing reduce our carbon footprint?",
+    "answer": "Yes, cloud providers optimize energy usage and often operate on renewable power, reducing your overall emissions."
+  },
+  {
+    "question": "How can we track IT carbon emissions?",
+    "answer": "We implement monitoring tools that estimate carbon output based on IT operations and suggest optimizations."
+  },
+  {
+    "question": "Do you assist in creating green IT policies?",
+    "answer": "Yes, we help draft sustainable IT policies for hardware lifecycle, power usage, and eco-conscious operations."
+  },
+  {
+    "question": "Can you build an e-learning platform?",
+    "answer": "Yes, we develop LMS platforms with course management, quizzes, progress tracking, and certification features."
+  },
+  {
+    "question": "Do you support gamification in learning apps?",
+    "answer": "Yes, we integrate gamified learning features such as points, leaderboards, badges, and challenges."
+  },
+  {
+    "question": "What features do you provide for virtual classrooms?",
+    "answer": "We offer video conferencing, live chat, screen sharing, whiteboards, and session recording."
+  },
+  {
+    "question": "Can you integrate SCORM and xAPI standards?",
+    "answer": "Yes, we support e-learning content standards like SCORM, xAPI, and LTI for content portability and tracking."
+  },
+  {
+    "question": "Do you build mobile learning applications?",
+    "answer": "Yes, we create native and hybrid mobile apps for on-the-go learning, compatible with Android and iOS."
+  },
+  {
+    "question": "Can your EdTech solutions support offline learning?",
+    "answer": "Yes, we enable offline mode with local caching, which syncs back to the server when internet is available."
+  },
+  {
+    "question": "Do you build telemedicine platforms?",
+    "answer": "Yes, we create secure platforms for virtual consultations, appointment booking, and health monitoring."
+  },
+  {
+    "question": "Is your software HIPAA-compliant?",
+    "answer": "Yes, we ensure full compliance with HIPAA guidelines to protect patient data and privacy."
+  },
+  {
+    "question": "Can you integrate EHR systems?",
+    "answer": "Yes, we integrate Electronic Health Record (EHR) systems and support HL7/FHIR interoperability."
+  },
+  {
+    "question": "What are healthcare chatbots used for?",
+    "answer": "They assist with symptom checking, appointment reminders, FAQs, and basic triage support."
+  },
+  {
+    "question": "Do you offer wearable device integration?",
+    "answer": "Yes, we integrate data from fitness bands, heart rate monitors, and other health devices into your applications."
+  },
+  {
+    "question": "Can you build AI-based diagnostic tools?",
+    "answer": "Yes, we create machine learning models to assist doctors with diagnostics, risk prediction, and treatment suggestions."
+  },
+  {
+    "question": "What is IT governance?",
+    "answer": "IT governance is the framework that ensures IT investments align with business goals and deliver value while managing risks."
+  },
+  {
+    "question": "Do you help with ISO 27001 implementation?",
+    "answer": "Yes, we guide organizations through implementing ISO 27001 for information security management systems."
+  },
+  {
+    "question": "What are your GDPR compliance services?",
+    "answer": "We help businesses assess and implement processes to meet GDPR data protection regulations."
+  },
+  {
+    "question": "Can you perform IT audits?",
+    "answer": "Yes, we conduct IT audits to evaluate risks, controls, and compliance with internal and external standards."
+  },
+  {
+    "question": "Do you provide risk assessment services?",
+    "answer": "Yes, we identify IT-related risks and suggest mitigation strategies and controls."
+  },
+  {
+    "question": "What policies are included in IT compliance?",
+    "answer": "Policies typically include data retention, access control, usage policies, and incident response protocols."
   }
 ]
