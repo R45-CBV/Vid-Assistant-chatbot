@@ -34,25 +34,31 @@ print("Dataset successfully stored in ChromaDB!")
 # Function to retrieve response from ChromaDB
 def retrieve_response(query):
     docs = vector_store.similarity_search(query, k=1)
-    return docs[0].metadata["answer"] if docs else "I don't know the answer."
+    return docs[0].metadata["answer"] if docs else "Sorry, I don't know the answer."
 
-# Load LLaMA model
+# Load LLaMA model for final answer generation
 llm = Llama(model_path="models/mistral-7b-instruct-v0.1.Q2_K.gguf",
             verbose=False)
 
 
-# RAG-based chatbot response
+# RAG-based chatbot response(Retrieve + Generate)
 def rag_chatbot(query):
     retrieved_text = retrieve_response(query)
-    prompt = f"User asked: {query}\n\nRetrieved Info: {retrieved_text}\n\nAnswer:"
+
+    prompt = (
+    f"User asked: {query}\n\n"
+    f"Relevant Info: {retrieved_text}\n\n"
+    f"Answer:concisely based only on the relevant info above:"
+    )
+
     response = llm(prompt, max_tokens=100, temperature=0.7)
-    return response["choices"][0]["text"]
+    return response["choices"][0]["text"].strip()
 
 # Example usage
 if __name__ == "__main__":
     while True:
-        query = input("You: ")
-        if query.lower() in {"exit", "quit"}:
+        user_input = input("Ask your question (or type 'exit'): ")
+        if user_input.lower() == {"exit", "quit"}:
             break
-        response = rag_chatbot(query)
-        print("Bot:", response)
+        bot_reply = rag_chatbot(user_input)
+        print(f"\n🤖 Bot: {bot_reply}\n")
